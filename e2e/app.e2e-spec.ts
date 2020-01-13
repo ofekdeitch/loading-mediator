@@ -1,6 +1,6 @@
 import { LoadingManagerPage } from './app.po';
 
-describe('loading-manager App', () => {
+describe('loading-mediator App', () => {
   let page: LoadingManagerPage;
 
   beforeEach(() => {
